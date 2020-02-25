@@ -51,7 +51,7 @@ Please cite our work if you find it useful in your research:
 ```bibtex
 @article{tong2020benefits,
   title={The Benefits of Pairwise Discriminators for Adversarial Training},
-  author={Shangyuan Tong and Timur Garipov and Tommi Jaakkola},
+  author={Tong, Shangyuan and Garipov, Timur and Jaakkola, Tommi},
   journal={arXiv preprint arXiv:2002.08621},
   year={2020}
 }
